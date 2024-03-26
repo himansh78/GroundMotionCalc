@@ -5,4 +5,4 @@ This repo describes the methodology developed in Agrawal & McCloskey 2024 for th
 The preprint for the publication can be accessed <a href='https://egusphere.copernicus.org/preprints/2024/egusphere-2023-2895/' />here </a>
 <br>
 <br>
-Contact: himansh78 [at] gmail.com for more info
+Contact: himansh78 [at] gmail.com
