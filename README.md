@@ -2,7 +2,8 @@ This repo describes the methodology developed in Agrawal & McCloskey 2024 for th
 * Jupyter notebook `PGA_calc_vs_sim.ipynb` contains a step-by-step demonstration of the method.
 * The `Data` folder contains the necessary files used for the demonstration.
 <br>
-The preprint for the publication can be accessed <a href='https://egusphere.copernicus.org/preprints/2024/egusphere-2023-2895/' />here </a>
+How to cite:
+Agrawal, H. and McCloskey, J.: Estimating ground motion intensities using simulation-based estimates of local crustal seismic response, Nat. Hazards Earth Syst. Sci., 24, 3519–3536, https://doi.org/10.5194/nhess-24-3519-2024, 2024
 <br>
 <br>
 Contact: himansh78 [at] gmail.com
